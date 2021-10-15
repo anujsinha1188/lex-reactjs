@@ -1,0 +1,26 @@
+[
+    {
+        "itemId":"1",
+        "itemName":"Chocalates",
+        "ItemImg":"./Images/chocalates.png",
+        "itemPrice":"100",
+        "itemQuantity":"1",
+        "MaxQuantity":"10"
+    },
+    {
+        "itemId":"2",
+        "itemName":"Apples",
+        "ItemImg":"./Images/apples.png",
+        "itemPrice":"20",
+        "itemQuantity":"25",
+        "MaxQuantity":"50"
+    },
+    {
+        "itemId":"3",
+        "itemName":"Carrot",
+        "ItemImg":"./Images/carrots.png",
+        "itemPrice":"5",
+        "itemQuantity":"1",
+        "MaxQuantity":"25"
+    }
+]
